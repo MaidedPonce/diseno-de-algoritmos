@@ -6,7 +6,6 @@ int main() {
     double ingreso_mensual, isr = 0;
     double lim_inf, lim_sup, cuota_fija, porcentaje, excedente, isr_rango;
 
-    // Tabla del ISR
     double tabla_isr[11][4] = {
         {0.01, 578.52, 0.00, 1.92},
         {578.53, 4910.18, 11.11, 6.40},
