@@ -54,7 +54,7 @@ double ISR(double sueldo)
 
 int main()
 {
-    /*  int banda;
+    int banda;
      cout << "Ingresa el número de la banda salarial (1-9): ";
      cin >> banda;
 
@@ -64,13 +64,13 @@ int main()
      double isr = ISR(sueldo);
      cout << "El ISR es: $" << isr << endl;
 
-     return 0; */
-    double sueldo;
+     return 0;
+   /*  double sueldo;
     cout << "Ingrese sueldo bruto: ";
     cin >> sueldo;
 
     double isr = ISR(sueldo);
     cout << "ISR a retener: $" << isr << endl;
 
-    return 0;
+    return 0; */
 }
